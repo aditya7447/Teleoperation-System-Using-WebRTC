@@ -44,8 +44,8 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/aditya7447/Teleoperation-System-Using-WebRTC
+   cd Teleoperation-System-Using-WebRTC
    ```
 
 2. **Install dependencies:**
