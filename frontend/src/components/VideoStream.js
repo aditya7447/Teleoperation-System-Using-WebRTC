@@ -56,7 +56,6 @@ const VideoStream = () => {
     };
   }, []);
 
-  //return <video ref={videoRef} autoPlay playsInline style={{ width: "100%" }} />;
   return (
     <div className="video-container">
       <video ref={videoRef} autoPlay playsInline />

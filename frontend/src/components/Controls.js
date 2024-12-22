@@ -1,26 +1,3 @@
-// import React from "react";
-// import { io } from "socket.io-client";
-
-// const Controls = () => {
-//   const socket = io("http://localhost:5000");
-
-//   const sendCommand = (command) => {
-//     socket.emit("control", command);
-//   };
-
-//   return (
-//     <div>
-//       <h1>Controls</h1>
-//       <button onClick={() => sendCommand("FORWARD")}>Forward</button>
-//       <button onClick={() => sendCommand("BACKWARD")}>Backward</button>
-//       <button onClick={() => sendCommand("LEFT")}>Left</button>
-//       <button onClick={() => sendCommand("RIGHT")}>Right</button>
-//     </div>
-//   );
-// };
-
-// export default Controls;
-
 import React, { useEffect } from "react";
 import { io } from "socket.io-client";
 
