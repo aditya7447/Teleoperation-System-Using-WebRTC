@@ -50,14 +50,14 @@ Ensure you have the following installed:
 
 2. **Install dependencies:**
 
-    *For the backend (Node.js server):
+    - **For the backend (Node.js server):**
 
         ```bash
         cd backend
         npm install
         ```
 
-    *For the frontend (React app):
+   - **For the frontend (React app):**
 
         ```bash
         cd frontend
@@ -66,16 +66,25 @@ Ensure you have the following installed:
 
 3. **Start the server and frontend:**
 
-    *For the backend (Node.js server):
+    - **For the backend (Node.js server):**
 
         ```bash
         cd backend
         npm install
         ```
 
-    *For the frontend (React app):
+    - **For the frontend (React app):**
 
         ```bash
         cd frontend
         npm install
         ```
+        
+3. **Access the App:**
+
+     - **Use the following credentials to log in:**
+         - Username: admin
+         - Password: password
+
+     - **After logging in, you will be able to see the video stream and control buttons.**
+      
